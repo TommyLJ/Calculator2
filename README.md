@@ -1,2 +1,6 @@
-# Calculator2
-My first program - calculator made in IntelliJ. I was training Swing and GUI.
+# Calculator
+My first program - calculator made with Java Swing. Only basic operations (adding, subtraction, multiply, division).
+
+Things to improve:
+- Add better layout;
+- Add more operations;
